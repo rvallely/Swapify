@@ -14,8 +14,8 @@ _A mobile app build for the purpose of people exchanging items between each othe
 
 ## Watch demo
 
-If you want to learn more about this project and watch our demo follow the link bellow
-(northcoderslink.com)
+If you want to learn more about this project and watch our demo follow the link below.  
+https://northcoders.com/projects/march-2022/pivot1
 
 ---
 
