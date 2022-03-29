@@ -42,7 +42,7 @@ To run this app on your computer, make sure you have version [**NodeJS v16.11.0*
 You can find the repository on [**GitHub**](https://github.com/Nesh00/swapping-app) and clone it down or just download the ZIP file.
 
 ```
-git clone https://github.com/Nesh00/swapping-app
+git clone https://github.com/rvallely/Swapify.git
 
 ```
 
